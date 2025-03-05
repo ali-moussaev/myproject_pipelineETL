@@ -1,0 +1,52 @@
+# Environnement virtuel
+.venv/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Fichiers de logs
+*.log
+logs/
+app.log
+loggings.log
+
+# Fichiers d'environnement
+.env
+api.env
+*.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Base de données
+*.db
+*.sqlite3
+
+# Fichiers temporaires
+*.bak
+*.tmp
