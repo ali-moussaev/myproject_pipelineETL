@@ -188,10 +188,10 @@ Commitez vos changements (git commit -m 'Add AmazingFeature').
 Poussez votre branche (git push origin feature/AmazingFeature).
 Ouvrez une Pull Request pour discuter des modifications.
 📄 Licence
-Ce projet est sous licence MIT.
+Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 👥 Auteurs
 Votre Nom - Travail initial - VotreGitHub
 🙏 Remerciements
 ExchangeRate-API : Pour la fourniture des taux de change.
-La communauté Python : Pour les packages utilisés dans ce projet.
+La communauté Python : Pour les packages utilisés dans ce projet
