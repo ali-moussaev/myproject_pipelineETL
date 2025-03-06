@@ -10,10 +10,6 @@
 
 Ce projet implémente un pipeline ETL (Extract, Transform, Load) pour l'analyse des salaires dans le domaine de la Data Science. Le pipeline collecte, nettoie, transforme et analyse les données salariales, en effectuant une conversion automatique des salaires USD/EUR, puis génère des rapports statistiques détaillés sur les salaires des professionnels de la Data Science.
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Pipeline+ETL+Visualization" alt="Pipeline ETL Visualization" width="600"/>
-</p>
-
 ### 🎯 Objectifs
 
 - **Extraire** les données des fichiers CSV
@@ -251,11 +247,11 @@ Vous souhaitez contribuer au projet ? Voici comment faire :
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+Ce projet est sous licence MIT. 
 
 ## 👥 Auteurs
 
-Votre Nom - Travail initial - [VotreGitHub](https://github.com/votre-username)
+Ali Moussaev - [VotreGitHub](https://github.com/ali-moussaev
 
 ## 🙏 Remerciements
 
